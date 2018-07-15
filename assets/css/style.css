@@ -1,0 +1,61 @@
+*{
+    display: inline-block;
+}
+body{
+    background-image: url("../images/sayagata-400px.png");
+}
+header{
+    padding: 15px;
+    background-color: beige;
+    width: 100%;
+}
+h1{
+    float: left;
+    margin: 0% 0% 0% 10%;
+    padding: 20px;
+    color: black;
+}
+h3{
+    clear: both;
+}
+/*a{
+    float: right;
+    margin: 1% 1% 1% 1%;
+    background-color: aqua;
+    padding: 20px
+}*/
+#contact{
+    float: right;
+    margin: 2% 0% 1% 0%;
+    padding: 10px;
+    border-right: 1px solid black;
+
+}
+#portfolio{
+    float: right;
+    margin: 2% 0% 1% 0%;
+    padding: 10px;
+    border-right: 1px solid black;
+}
+#about{
+    float: right;
+    margin: 2% 0% 1% 0%;
+    padding: 10px;
+}
+div{
+    margin: 5% 10% 15% 10%;
+    padding: 20px;
+    background-color: beige;
+}
+img{
+    float: left;
+    width: 30%;
+    margin: 2% 2% 2% 2%;
+    border: 2%
+
+}
+p{
+    float: left;
+    line-height: 150%;
+    margin: 5% 5% 5% 5%;
+}
